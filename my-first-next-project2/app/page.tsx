@@ -20,9 +20,8 @@ export default function Home() {
             </code>
             .
           </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
+          <li className="text-green-500">I did a change!</li>
+         
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
